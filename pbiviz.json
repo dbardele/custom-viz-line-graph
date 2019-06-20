@@ -1,0 +1,24 @@
+{
+    "visual": {
+        "name": "jammberMockup",
+        "displayName": "jammberMockup",
+        "guid": "helloD3v5F5E7ADDB7AD64DA3AD4D85E4321E9DE2",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "",
+        "supportUrl": "",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "2.6.0",
+    "author": {
+        "name": "",
+        "email": ""
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "stringResources": []
+}
